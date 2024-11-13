@@ -1,3 +1,5 @@
+-- this is protected dumbass, dont try to execute this if your a non beta user
+
 local Exploit = identifyexecutor()
 
 local gameIds = {
