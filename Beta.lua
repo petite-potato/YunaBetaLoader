@@ -4,7 +4,8 @@ local Exploit = identifyexecutor()
 
 local gameIds = {
     ["3150475059"] = "https://api.luarmor.net/files/v3/loaders/74691a1f260d22bbe36626a1b1ca749b.lua",
-    ["3032132418"] = "https://api.luarmor.net/files/v3/loaders/74691a1f260d22bbe36626a1b1ca749b.lua"
+    ["3032132418"] = "https://api.luarmor.net/files/v3/loaders/74691a1f260d22bbe36626a1b1ca749b.lua",
+    ["184199275"] = "https://api.luarmor.net/files/v3/loaders/a553b5c3e7ff1378e91c7f7af656fb98.lua"
 }
 
 local solaraIds = {
